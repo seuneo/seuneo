@@ -1,0 +1,2 @@
+- 😄 Hi, I’m @seuneo
+- 🌱 I’m currently learning web development!
